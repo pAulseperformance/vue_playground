@@ -1,4 +1,4 @@
-# traversy_crash
+# Simple TODO app built in online Tut. 
 
 ## Project setup
 ```
